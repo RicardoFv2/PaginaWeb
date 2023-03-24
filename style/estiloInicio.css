@@ -85,6 +85,8 @@
     padding: 20px;
     text-align: center;
     border-top: solid 3px #ffc400;
+    bottom: 0;
+    width: 100%;
   }
   
   @media (max-width: 768px) {
